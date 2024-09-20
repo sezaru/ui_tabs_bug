@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@floating-ui/dom": "^1.6.8",
+    "@tiptap/core": "^2.6.4",
+    "@tiptap/extension-bold": "^2.6.4",
+    "@tiptap/extension-mention": "^2.6.6",
+    "@tiptap/pm": "^2.6.4",
+    "@tiptap/react": "^2.6.6",
+    "@tiptap/starter-kit": "^2.6.4",
+    "@tiptap/suggestion": "^2.6.6",
+    "column-resizer": "^1.4.0",
+    "flowbite": "^2.4.1",
+    "htm": "^3.1.1",
+    "lit": "^3.2.0",
+    "phoenix_typed_hook": "^0.18.2",
+    "preact": "^10.23.2",
+    "prettier": "^3.3.3",
+    "slim-select": "^2.8.2",
+    "sortablejs": "^1.15.2",
+    "tippy.js": "^6.3.7",
+    "tom-select": "^2.3.1",
+    "vanjs-core": "^1.5.2"
+  }
+}
